@@ -63,3 +63,10 @@ h3 {
 hr {
   margin: 5%;
 }
+
+input {
+  width: 100%;
+}
+h5 {
+  color: #526e2d99;
+}
