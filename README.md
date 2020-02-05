@@ -1,9 +1,7 @@
 # ProfilePage
+
 <<<<<<< HEAD
 
 https://jbdunks.github.io/ProfilePage/
 
-Tasked with making a profile page to display working
-=======
-https://jbdunks.github.io/ProfilePage/
->>>>>>> d89d64f316e4743c3ca834a21e0198a60dceb78a
+Tasked with making a profile page consisting of an index.html, a portfolio page, and a contact page. The page is to serve are a future portfolio for projects and assignments completed in class.

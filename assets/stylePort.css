@@ -26,23 +26,23 @@ a {
 /*CARDS */
 
 .first {
-  background-image: url("microverse.jpg");
+  background-image: url("ps4.png");
 }
 
 .second {
-  background-image: url("pickle_rick.jpg.");
+  background-image: url("boardgames.jpeg");
 }
 
 .third {
-  background-image: url("pringles.jpg");
+  background-image: url("sports.jpg");
 }
 
 .fourth {
-  background-image: url("vindicators.jpg");
+  background-image: url("camping.jpg");
 }
 
 .fifth {
-  background-image: url("spleen_mountain.jpg");
+  background-image: url("hiking.jpg");
 }
 
 .card {
