@@ -1,0 +1,70 @@
+/*NAV */
+
+h4 {
+  color: white;
+}
+
+.navbar-brand {
+  background-color: #69c8ec99;
+  padding: 9px;
+}
+
+nav {
+  background-color: #526e2d99;
+}
+
+a {
+  color: white;
+}
+
+.navbar {
+  margin: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+/*CARDS */
+
+.first {
+  background-image: url("microverse.jpg");
+}
+
+.second {
+  background-image: url("pickle_rick.jpg.");
+}
+
+.third {
+  background-image: url("pringles.jpg");
+}
+
+.fourth {
+  background-image: url("vindicators.jpg");
+}
+
+.fifth {
+  background-image: url("spleen_mountain.jpg");
+}
+
+.card {
+  background-size: cover;
+  height: 200px;
+}
+
+.card a {
+  position: absolute;
+  bottom: 5%;
+  width: 100%;
+}
+
+.btn {
+  background-color: #69c8ec99;
+}
+
+main {
+  background-color: white;
+}
+.container {
+  background-color: #b7e4f999;
+  padding-top: 16px;
+  margin: 1.5%;
+}
